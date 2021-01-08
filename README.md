@@ -7,5 +7,6 @@ Know the basics of the IDE, First Steps, Actions, Logic Shared Actions, Database
 
 https://personal-lnhz89xb.outsystemscloud.com/UdemyTest/
 
+![alt text](https://academy.itup.pt/wp-content/uploads/2019/01/outsystems-mascote.jpg)
 
 
